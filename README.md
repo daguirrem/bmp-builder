@@ -1,4 +1,4 @@
-This repository build a docker image to build specific version of BMP Firmware.
+This repository build a docker image to build specific version of [BMP Firmware](https://github.com/blackmagic-debug/blackmagic).
 
 ## To build the image:
 To build a docker image run this command. By default BMP_VERSION points to v1.10.0 tag.
